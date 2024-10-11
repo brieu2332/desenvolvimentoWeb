@@ -6,6 +6,13 @@ body {
     no-repeat center center fixed;
     background-size: cover;
 }
+
+Canvas {
+    border: 2px solid gray; /* Borda preta */
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); /* Sombra */
+    background-color: #fff; /* Fundo branco */
+}
+
 iframe{
     color: aliceblue;
 }
